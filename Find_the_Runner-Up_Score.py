@@ -1,0 +1,6 @@
+n = int(input())
+arr = map(int, input().split())
+arr = list(set(arr))
+max_idx = arr.index(max(arr))
+arr.pop(max_idx)
+print(max(arr))
