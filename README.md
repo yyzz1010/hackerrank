@@ -1,7 +1,7 @@
 # hackerrank
 Archive of HackerRank challenges. 
 
-## 2019
+## Python
 
 * [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
   * [code](./Finding_the_percentage.py)
@@ -23,3 +23,13 @@ Archive of HackerRank challenges.
   * [code](./Print_Function.py)
 * [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
   * [code](./Python_If-Else.py)
+  
+  
+## SQL
+
+* [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
+  * [code](./Weather_Observation_Station_3.sql)
+* [Revising the Select Query II]()
+  * [code](./Revising_the_Select_Query_II.sql)
+* [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
+  * [code](./Revising_the_Select_Query_I.sql)
