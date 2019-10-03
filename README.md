@@ -27,6 +27,14 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## SQL
 
+* [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)
+  * [code](./Weather_Observation_Station_8.sql)
+* [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)
+  * [code](./Weather_Observation_Station_6.sql)
+* [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)
+  * [code](./Weather_Observation_Station_5.sql)
+* [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)
+  * [code](./Weather_Observation_Station_4.sql)
 * [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
   * [code](./Weather_Observation_Station_3.sql)
 * [Revising the Select Query II]()
