@@ -27,6 +27,12 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## SQL
 
+* [Average Population](https://www.hackerrank.com/challenges/average-population/problem)
+  * [code](./Average_Population.sql)
+* [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)
+  * [code](./Employee_Salaries.sql)
+* [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
+  * [code](./Higher_Than_75_Marks.sql)
 * [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)
   * [code](./Weather_Observation_Station_8.sql)
 * [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)
