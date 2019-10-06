@@ -1,6 +1,12 @@
 # hackerrank
 Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges. 
 
+## Badges
+<img src="./badges.png" width=400px>
+
+* Python: 15 tasks completed
+* SQL: 37 tasks completed
+
 ## Python
 
 * [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
@@ -27,6 +33,12 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## SQL
 
+* [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
+  * [code](./Top_Earners.sql)
+* [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)
+  * [code](./Average_Population_of_Each_Continent.sql)
+* [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)
+  * [code](./Asian_Population.sql)
 * [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)
   * [code](./Weather_Observation_Station_18.sql)
 * [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)
