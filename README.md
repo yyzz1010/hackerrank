@@ -4,11 +4,23 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 ## Badges
 <img src="./badges.png" width=400px>
 
-* Python: 15 tasks completed
+* Python: 22 tasks completed
 * SQL: 37 tasks completed
 
 ## Python
 
+* [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
+  * [code](./Capitalize.py)
+* [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
+  * [code](./String_Validators.py)
+* [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
+  * [code](./Find_a_string.py)
+* [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
+  * [code](./Mutations.py)
+* [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
+  * [code](./String_Split_and_Join.py)
+* [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
+  * [code](./sWAP_cASE.py)
 * [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
   * [code](./Finding_the_percentage.py)
 * [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)
