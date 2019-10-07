@@ -4,11 +4,15 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 ## Badges
 <img src="./badges.png" width=400px>
 
-* Python: 22 tasks completed
+* Python: 24 tasks completed
 * SQL: 37 tasks completed
 
 ## Python
 
+* [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+  * [code](./itertools_permutations.py)
+* [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
+  * [code](./itertools_product.py)
 * [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
   * [code](./Capitalize.py)
 * [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
