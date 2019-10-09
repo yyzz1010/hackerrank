@@ -4,11 +4,17 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 ## Badges
 <img src="./badges.png" width=400px>
 
-* Python: 24 tasks completed
+* Python: 30 tasks completed
 * SQL: 37 tasks completed
 
 ## Python
 
+* [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+  * [code](./Detect_Floating_Point_Number.py)
+* [Compress the String!]()
+  * [code](./Compress_the_String.py)
+* [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+  * [code](./itertools_combinations.py)
 * [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
   * [code](./itertools_permutations.py)
 * [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
