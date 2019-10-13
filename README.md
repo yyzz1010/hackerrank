@@ -4,11 +4,13 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 ## Badges
 <img src="./badges.png" width=400px>
 
-* Python: 30 tasks completed
-* SQL: 37 tasks completed
+* Python: 32 tasks completed
+* SQL: 38 tasks completed
 
 ## Python
 
+* [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)
+ * [code](./Group_Groups_Groupdict.py)
 * [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
   * [code](./Detect_Floating_Point_Number.py)
 * [Compress the String!]()
@@ -55,6 +57,8 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## SQL
 
+* [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
+  * [code](./Type_of_Triangle.sql)
 * [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
   * [code](./Top_Earners.sql)
 * [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)
