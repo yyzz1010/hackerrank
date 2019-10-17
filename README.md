@@ -4,8 +4,9 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 ## Badges
 <img src="./badges.png" width=400px>
 
-* Python: 32 tasks completed
-* SQL: 38 tasks completed
+* [Python](https://github.com/yyzz1010/hackerrank#python): 32 tasks completed
+* [SQL](https://github.com/yyzz1010/hackerrank#sql): 38 tasks completed
+* [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 5 tasks completed
 
 ## Python
 
@@ -54,7 +55,6 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 * [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
   * [code](./Python_If-Else.py)
   
-  
 ## SQL
 
 * [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
@@ -91,3 +91,8 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   * [code](./Revising_the_Select_Query_II.sql)
 * [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
   * [code](./Revising_the_Select_Query_I.sql)
+  
+## Algorithms
+
+* [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+  * [code](./Diagonal_Difference.py)
