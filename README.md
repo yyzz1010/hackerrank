@@ -6,7 +6,7 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 
 * [Python](https://github.com/yyzz1010/hackerrank#python): 32 tasks completed
 * [SQL](https://github.com/yyzz1010/hackerrank#sql): 38 tasks completed
-* [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 5 tasks completed
+* [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 6 tasks completed
 
 ## Python
 
@@ -94,5 +94,7 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## Algorithms
 
+* [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+  * [code]((./Sock_Merchant.py))
 * [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
   * [code](./Diagonal_Difference.py)
