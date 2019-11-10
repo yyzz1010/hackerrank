@@ -5,8 +5,9 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 <img src="./badges.png" width=400px>
 
 * [Python](https://github.com/yyzz1010/hackerrank#python): 32 tasks completed
-* [SQL](https://github.com/yyzz1010/hackerrank#sql): 38 tasks completed
-* [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 7 tasks completed
+* [SQL](https://github.com/yyzz1010/hackerrank#sql): 41 tasks completed
+* [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 9 tasks completed
+* [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code): 5 tasks completed
 
 ## Python
 
@@ -57,6 +58,10 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## SQL
 
+* [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)
+  * [code](./The_Blunder.sql)
+* [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)
+  * [code](./Draw_The_Triangle_1.sql)
 * [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
   * [code](./Type_of_Triangle.sql)
 * [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
@@ -94,9 +99,18 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## Algorithms
 
+* [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+  * [code](./Time_Conversion.py)
+* [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+  * [code](./Birthday_Cake_Candles.py)
 * [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
   * [code](./Staircase.py)
 * [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
   * [code](./Sock_Merchant.py)
 * [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
   * [code](./Diagonal_Difference.py)
+  
+## 30 Days of Code
+
+* [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+  * [code](./Day_4_Class_vs_Instance.py)
