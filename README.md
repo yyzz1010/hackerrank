@@ -2,7 +2,7 @@
 Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges. 
 
 ## Badges
-<img src="./badges.png" width=400px>
+<img src="./badges.png" width=600px>
 
 * [Python](https://github.com/yyzz1010/hackerrank#python): 32 tasks completed
 * [SQL](https://github.com/yyzz1010/hackerrank#sql): 41 tasks completed
