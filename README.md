@@ -7,7 +7,7 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 * [Python](https://github.com/yyzz1010/hackerrank#python): 32 tasks completed
 * [SQL](https://github.com/yyzz1010/hackerrank#sql): 42 tasks completed
 * [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 9 tasks completed
-* [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code): 6 tasks completed
+* [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code): 7 tasks completed
 
 ## Python
 
@@ -101,6 +101,8 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## Algorithms
 
+* [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+  * [code](./Mini-Max_Sum.py)
 * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
   * [code](./Time_Conversion.py)
 * [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
@@ -114,6 +116,8 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## 30 Days of Code
 
+* [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)
+  * [code](./Day_6_Lets_Review.py)
 * [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)
   * [code](./Day_5_Loops.py)
 * [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
