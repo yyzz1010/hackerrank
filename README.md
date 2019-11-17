@@ -7,7 +7,7 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 * [Python](https://github.com/yyzz1010/hackerrank#python): 32 tasks completed
 * [SQL](https://github.com/yyzz1010/hackerrank#sql): 42 tasks completed
 * [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 9 tasks completed
-* [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code): 9 tasks completed
+* [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code): 11 tasks completed
 
 ## Python
 
@@ -116,6 +116,10 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
   
 ## 30 Days of Code
 
+* [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+  * [code](./Day_10_Binary_Numbers.py)
+* [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)
+  * [code](./Day_9_Recursion_3.py)
 * [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
   * [code](./Day_8_Dictionaries_and_Maps.py)
 * [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)
