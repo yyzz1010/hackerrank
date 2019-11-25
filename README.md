@@ -4,13 +4,15 @@ Archive of [HackerRank](https://www.hackerrank.com/yyyzzz10104) challenges.
 ## Badges
 <img src="./badges.png" width=600px>
 
-* [Python](https://github.com/yyzz1010/hackerrank#python): 32 tasks completed
+* [Python](https://github.com/yyzz1010/hackerrank#python): 33 tasks completed
 * [SQL](https://github.com/yyzz1010/hackerrank#sql): 42 tasks completed
 * [Algorithms](https://github.com/yyzz1010/hackerrank#algorithms): 9 tasks completed
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code): 11 tasks completed
 
 ## Python
 
+* [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
+  * [code](./Min_and_Max.py)
 * [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)
   * [code](./Group_Groups_Groupdict.py)
 * [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
